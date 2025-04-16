@@ -6,6 +6,7 @@
 // DESAFIO FEITO POR JONNY LIMA
 int main() {
  
+        //Criando o tabuleiro
         int Tabuleiro[10][10];
         char coluna [10] = {'1','2','3','4','5','6','7','8','9','10'};  
         char linha [10] = {'A','B','C','D','E','F','G','H','I','J'};
